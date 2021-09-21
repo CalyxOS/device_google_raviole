@@ -8,5 +8,8 @@ ro.vendor.config.build_carrier=europen
 vendor.rild.libpath=libsitril.so
 persist.vendor.ril.ecc.xml=1
 
+# Security patch
+ro.vendor.kernel.security_patch=2022-08-05
+
 # SSR
 vendor.debug.ssrdump.type=sscoredump
