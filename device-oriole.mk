@@ -14,6 +14,10 @@ TARGET_KERNEL_PLATFORM_SOURCE := google/gs-$(TARGET_LINUX_KERNEL_VERSION)
 # Inherit from gs101
 include device/google/gs101/common.mk
 
+# EUICC
+PRODUCT_COPY_FILES += \
+    $(DEVICE_PATH)/permissions/permissions_com.google.android.euicc.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/permissions_com.google.android.euicc.xml
+
 # Overlays
 PRODUCT_PACKAGES += \
     DeviceAsWebcamRaviole \
