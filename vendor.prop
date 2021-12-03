@@ -1,0 +1,4 @@
+drm.service.enabled=true
+media.mediadrmservice.enable=true
+
+ro.hardware.egl=mali
