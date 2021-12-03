@@ -18,6 +18,17 @@ TARGET_BOOTLOADER_BOARD_NAME := oriole
 TARGET_SCREEN_DENSITY := 420
 USES_DEVICE_GOOGLE_RAVIOLE := true
 
+BUILD_BROKEN_ELF_PREBUILT_PRODUCT_COPY_FILES := true
+
+# Partitions
+AB_OTA_PARTITIONS += \
+    vendor
+ifneq ($(PRODUCT_USE_DYNAMIC_PARTITIONS), true)
+    BOARD_VENDORIMAGE_PARTITION_SIZE := 1110134784
+endif
+BOARD_VENDORIMAGE_FILE_SYSTEM_TYPE := ext4
+
 include device/google/gs101/BoardConfig-common.mk
 -include vendor/google_devices/gs101/prebuilts/BoardConfigVendor.mk
 -include vendor/google_devices/oriole/proprietary/BoardConfigVendor.mk
+include vendor/google/oriole/BoardConfigVendor.mk
