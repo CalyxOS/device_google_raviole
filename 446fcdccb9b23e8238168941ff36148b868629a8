@@ -37,6 +37,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "3a57f16e_84ee84bb",
+        "filename": "oriole/BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2021-12-04T20:46:05Z",
+      "side": 1,
+      "message": "This is no-op, we use dynamic partitions.",
+      "parentUuid": "3f6d9fae_34e15613",
+      "revId": "446fcdccb9b23e8238168941ff36148b868629a8",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "742f5399_5b10a530",
         "filename": "oriole/proprietary-files.txt",
         "patchSetId": 1
