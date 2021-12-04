@@ -18,6 +18,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "b85ce527_f56668e9",
+        "filename": "oriole/BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-04T23:59:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d225900c_5fd4a418",
+      "revId": "446fcdccb9b23e8238168941ff36148b868629a8",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "3f6d9fae_34e15613",
@@ -49,6 +67,24 @@
       "side": 1,
       "message": "This is no-op, we use dynamic partitions.",
       "parentUuid": "3f6d9fae_34e15613",
+      "revId": "446fcdccb9b23e8238168941ff36148b868629a8",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "70d5c904_101ab08c",
+        "filename": "oriole/BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-04T23:59:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3a57f16e_84ee84bb",
       "revId": "446fcdccb9b23e8238168941ff36148b868629a8",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
@@ -87,6 +123,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "28ab8950_2299e3cf",
+        "filename": "oriole/regen-vendor.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-04T23:59:31Z",
+      "side": 1,
+      "message": "Ack",
+      "parentUuid": "8b10b3c1_43d5ac72",
+      "revId": "446fcdccb9b23e8238168941ff36148b868629a8",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "e6db42c5_c26cc093",
@@ -100,6 +154,24 @@
       "writtenOn": "2021-12-03T22:22:33Z",
       "side": 1,
       "message": "These were from $OUT/module-info.json\n\nAll \"installed\" files with a path of vendor.",
+      "revId": "446fcdccb9b23e8238168941ff36148b868629a8",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "04e33ed7_17275a37",
+        "filename": "oriole/regen-vendor.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 1018,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-04T23:59:31Z",
+      "side": 1,
+      "message": "Ack",
+      "parentUuid": "e6db42c5_c26cc093",
       "revId": "446fcdccb9b23e8238168941ff36148b868629a8",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
@@ -121,6 +193,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "8d36f019_4a595ec0",
+        "filename": "oriole/regen-vendor.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 1111,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-04T23:59:31Z",
+      "side": 1,
+      "message": "Ack",
+      "parentUuid": "d7560e68_b95f448a",
+      "revId": "446fcdccb9b23e8238168941ff36148b868629a8",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "12820d2e_dccb53b4",
@@ -138,6 +228,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "3d4252a1_db256699",
+        "filename": "oriole/regen-vendor.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 1113,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-04T23:59:31Z",
+      "side": 1,
+      "message": "Ack",
+      "parentUuid": "12820d2e_dccb53b4",
+      "revId": "446fcdccb9b23e8238168941ff36148b868629a8",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "570b18a5_3174d5f0",
@@ -151,6 +259,24 @@
       "writtenOn": "2021-12-03T22:22:33Z",
       "side": 1,
       "message": "dunno if prebuilt apex would even work",
+      "revId": "446fcdccb9b23e8238168941ff36148b868629a8",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f4c865e4_388de762",
+        "filename": "oriole/regen-vendor.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 1115,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-04T23:59:31Z",
+      "side": 1,
+      "message": "It does, 319761: extract_utils: Handle prebuilt APEX | https://review.lineageos.org/c/LineageOS/android_tools_extract-utils/+/319761",
+      "parentUuid": "570b18a5_3174d5f0",
       "revId": "446fcdccb9b23e8238168941ff36148b868629a8",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
