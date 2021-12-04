@@ -14,6 +14,10 @@ TARGET_PREBUILT_KERNEL := device/google/raviole-kernel/Image.lz4
 
 # Build necessary packages for vendor
 
+#
+DEVICE_MANIFEST_FILE += \
+    device/google/raviole/manifest_radio.xml
+
 # Bluetooth
 PRODUCT_PACKAGES += \
     android.hardware.bluetooth@1.0.vendor \
