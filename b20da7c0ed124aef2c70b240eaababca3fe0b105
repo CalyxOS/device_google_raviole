@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d0de2375_f7284178",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 5
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-05T00:01:52Z",
+      "side": 1,
+      "message": "Will need to double check this, but things mostly seem to work so this might not be needed.\n\nLooking at other devices, it mostly seems to be a QC thing.",
+      "revId": "b20da7c0ed124aef2c70b240eaababca3fe0b105",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
