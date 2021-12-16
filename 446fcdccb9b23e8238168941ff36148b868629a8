@@ -106,6 +106,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "12b7e53c_8728a3d8",
+        "filename": "oriole/proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-16T20:10:15Z",
+      "side": 1,
+      "message": "Removed for now, can always re-add later.",
+      "parentUuid": "742f5399_5b10a530",
+      "revId": "446fcdccb9b23e8238168941ff36148b868629a8",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "8b10b3c1_43d5ac72",

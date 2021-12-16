@@ -16,6 +16,24 @@
       "message": "Will need to double check this, but things mostly seem to work so this might not be needed.\n\nLooking at other devices, it mostly seems to be a QC thing.",
       "revId": "b20da7c0ed124aef2c70b240eaababca3fe0b105",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1589b265_e90541c4",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 5
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-16T20:10:15Z",
+      "side": 1,
+      "message": "No symlinks needed for anything we include AFAICT",
+      "parentUuid": "d0de2375_f7284178",
+      "revId": "b20da7c0ed124aef2c70b240eaababca3fe0b105",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
