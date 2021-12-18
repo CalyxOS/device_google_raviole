@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "de65793c_15688535",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 16
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-18T00:38:46Z",
+      "side": 1,
+      "message": "Left uwb in the raven list but commented out. Vendor stuff is still present",
+      "revId": "af04848e6a176b9c76659bd65c26acb926774a2e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e3d885bf_1d6f2fa1",
+        "filename": "raven/proprietary-files.txt",
+        "patchSetId": 16
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-18T00:38:46Z",
+      "side": 1,
+      "message": "Intentional.",
+      "revId": "af04848e6a176b9c76659bd65c26acb926774a2e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a607ea3f_c9d43655",
+        "filename": "raven/proprietary-files.txt",
+        "patchSetId": 16
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-18T00:38:46Z",
+      "side": 1,
+      "message": "Intentional.",
+      "revId": "af04848e6a176b9c76659bd65c26acb926774a2e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
