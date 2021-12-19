@@ -18,6 +18,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "ac0fd784_8997f49d",
+        "filename": "calyx_oriole.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-19T21:50:48Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "c43272d4_32efb499",
+      "revId": "4ef77f41169854155a03b9ade64103373a075fa9",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "8c7dfbf4_efb34283",
@@ -35,6 +53,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "e9217935_f4c20dc4",
+        "filename": "calyx_raven.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-19T21:50:48Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "8c7dfbf4_efb34283",
+      "revId": "4ef77f41169854155a03b9ade64103373a075fa9",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "80d2ae89_54fb4984",
@@ -48,6 +84,24 @@
       "writtenOn": "2021-12-19T11:47:13Z",
       "side": 1,
       "message": "Newline",
+      "revId": "4ef77f41169854155a03b9ade64103373a075fa9",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d2268499_7d710f0e",
+        "filename": "device-calyx.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-19T21:50:48Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "80d2ae89_54fb4984",
       "revId": "4ef77f41169854155a03b9ade64103373a075fa9",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
