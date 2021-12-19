@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0116edc2_57a9727a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2021-12-19T22:49:36Z",
+      "side": 1,
+      "message": "Meh not the best solution but not much we can do, they should have put those in vendor vintf fragments",
+      "revId": "9e91efd6b00523b455a0885c0cf2c9cde54c2731",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
