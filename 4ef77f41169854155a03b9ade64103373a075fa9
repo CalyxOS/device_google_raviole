@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c43272d4_32efb499",
+        "filename": "calyx_oriole.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2021-12-19T11:47:13Z",
+      "side": 1,
+      "message": "Newline",
+      "revId": "4ef77f41169854155a03b9ade64103373a075fa9",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8c7dfbf4_efb34283",
+        "filename": "calyx_raven.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2021-12-19T11:47:13Z",
+      "side": 1,
+      "message": "Newline",
+      "revId": "4ef77f41169854155a03b9ade64103373a075fa9",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "80d2ae89_54fb4984",
+        "filename": "device-calyx.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2021-12-19T11:47:13Z",
+      "side": 1,
+      "message": "Newline",
+      "revId": "4ef77f41169854155a03b9ade64103373a075fa9",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
