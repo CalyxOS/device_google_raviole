@@ -60,3 +60,11 @@ extract "${MY_DIR}/proprietary-files.txt" "${SRC}" "${KANG}" --section "${SECTIO
 extract "${MY_DIR}/proprietary-files-vendor.txt" "${SRC}" "${KANG}" --section "${SECTION}"
 
 "${MY_DIR}/setup-makefiles.sh"
+
+cp -a "${MY_DIR}"/uwb-certs vendor/"${VENDOR}"/"${DEVICE}"/
+cat << EOF >> vendor/"${VENDOR}"/"${DEVICE}"/uwb-certs/Android.bp
+android_app_certificate {
+    name: "com.qorvo.uwb.certificate",
+    certificate: "com.qorvo.uwb",
+}
+EOF
