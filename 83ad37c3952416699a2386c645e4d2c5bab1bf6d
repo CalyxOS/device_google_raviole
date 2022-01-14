@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c7581b30_8c2a7877",
+        "filename": "raven/proprietary-files.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-01-14T20:54:33Z",
+      "side": 1,
+      "message": "Actual value needed:\n\":com.qorvo.uwb.certificate\",\n\nThe : won\u0027t work.\n\nI\u0027m thinking I\u0027ll just handle it automatically in extract-utils.sh\n\nif [ ! -e build/target/product/security/$cert.pk8 ] ; then\n    cert\u003d\":$cert\"\nfi\n\nShould work",
+      "revId": "83ad37c3952416699a2386c645e4d2c5bab1bf6d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "40f93122_18ab3a83",
+        "filename": "raven/uwb-certs/Android.bp.vendor",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-01-14T20:54:33Z",
+      "side": 1,
+      "message": "I\u0027d leave this here but soong_namespace means this won\u0027 work.\n\nCould get rid of the file and just write directly from scripts.",
+      "revId": "83ad37c3952416699a2386c645e4d2c5bab1bf6d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
