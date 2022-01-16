@@ -16,6 +16,23 @@
       "message": "May want to look into disabling this by default (looks like it is enabled by default)",
       "revId": "5a256f98b4a25efc6c7be1ec02513bb967c50d24",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5394e00a_90bcdc5f",
+        "filename": "raven/extract-files.sh",
+        "patchSetId": 4
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-01-16T23:27:10Z",
+      "side": 1,
+      "message": "I first had the certs in an Android.bp here but that didn\u0027t work due to soong namespaces, rather than fight it I did this.",
+      "revId": "5a256f98b4a25efc6c7be1ec02513bb967c50d24",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
