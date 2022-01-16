@@ -18,6 +18,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "25b46253_deb83998",
+        "filename": "raven/proprietary-files.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-01-16T22:25:16Z",
+      "side": 1,
+      "message": "Done https://review.calyxos.org/c/CalyxOS/platform_tools_extract-utils/+/8345",
+      "parentUuid": "c7581b30_8c2a7877",
+      "revId": "83ad37c3952416699a2386c645e4d2c5bab1bf6d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "40f93122_18ab3a83",
@@ -31,6 +49,24 @@
       "writtenOn": "2022-01-14T20:54:33Z",
       "side": 1,
       "message": "I\u0027d leave this here but soong_namespace means this won\u0027 work.\n\nCould get rid of the file and just write directly from scripts.",
+      "revId": "83ad37c3952416699a2386c645e4d2c5bab1bf6d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "02e8e891_d47558da",
+        "filename": "raven/uwb-certs/Android.bp.vendor",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-01-16T22:25:16Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "40f93122_18ab3a83",
       "revId": "83ad37c3952416699a2386c645e4d2c5bab1bf6d",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
