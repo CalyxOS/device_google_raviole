@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e3fc9d33_bcd2dc60",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-01-16T23:26:12Z",
+      "side": 1,
+      "message": "May want to look into disabling this by default (looks like it is enabled by default)",
+      "revId": "5a256f98b4a25efc6c7be1ec02513bb967c50d24",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
