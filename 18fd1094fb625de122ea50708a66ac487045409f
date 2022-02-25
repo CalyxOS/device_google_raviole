@@ -16,6 +16,23 @@
       "message": "Not sure if takes priority over vendor/calyx",
       "revId": "18fd1094fb625de122ea50708a66ac487045409f",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a63ed00a_dd368891",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-02-25T21:48:54Z",
+      "side": 1,
+      "message": "Works fine.\n\nThis ends up in vendor RRO, priority 0\nvendor/calyx config in product RRO, priority 1\n\nHence this works fine.",
+      "revId": "18fd1094fb625de122ea50708a66ac487045409f",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
