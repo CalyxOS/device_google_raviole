@@ -131,5 +131,7 @@ PRODUCT_PACKAGES += \
     libkeymaster4support.vendor \
     libnetfilter_conntrack \
     libnfnetlink \
+    libsensorndkbridge \
     libtrusty_metrics \
-    pixelpowerstats_provider_aidl_interface-cpp.vendor
+    pixelpowerstats_provider_aidl_interface-cpp.vendor \
+    sensors.dynamic_sensor_hal

@@ -1107,6 +1107,23 @@ VENDOR_SKIP_FILES=(
     "overlay/SettingsGoogle__auto_generated_rro_vendor.apk"
     "overlay/SystemUIGoogle__auto_generated_rro_vendor.apk"
     "lib/modules"
+
+    # 12L
+    "etc/fstab.zram.2g"
+    "etc/fstab.zram.3g"
+    "etc/ueventd.rc"
+    "lib/android.frameworks.sensorservice@1.0.so"
+    "lib/com.google.hardware.pixel.display-V4-ndk_platform.so"
+    "lib/hw/sensors.dynamic_sensor_hal.so"
+    "lib/libhidparser.so"
+    "lib/libmediautils_vendor.so"
+    "lib/libmemunreachable.so"
+    "lib/libsensorndkbridge.so"
+    "lib64/com.google.hardware.pixel.display-V4-ndk_platform.so"
+    "lib64/hw/sensors.dynamic_sensor_hal.so"
+    "lib64/libhidparser.so"
+    "lib64/libmediautils_vendor.so"
+    "lib64/libmemunreachable.so"
 )
 
 generate_prop_list_from_image "${_input_image}" "${_output_file}" VENDOR_SKIP_FILES
