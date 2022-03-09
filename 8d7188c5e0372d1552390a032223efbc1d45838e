@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e8b1d950_80728646",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2022-03-09T22:33:38Z",
+      "side": 1,
+      "message": "Copied from the other commit:\n\n$OUT/module-info.json from aosp_oriole-userdebug 12.1.0_r1: https://gist.github.com/9d243ecede187a0463b201e0b7a91eac",
+      "revId": "8d7188c5e0372d1552390a032223efbc1d45838e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
