@@ -1112,6 +1112,10 @@ VENDOR_SKIP_FILES=(
     "overlay/SettingsGoogle__auto_generated_rro_vendor.apk"
     "overlay/SystemUIGoogle__auto_generated_rro_vendor.apk"
     "lib/modules"
+
+    # 12L
+    "lib/libmediautils_vendor.so"
+    "lib/libmemunreachable.so"
 )
 
 generate_prop_list_from_image "${_input_image}" "${_output_file}" VENDOR_SKIP_FILES
