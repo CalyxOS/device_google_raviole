@@ -171,4 +171,5 @@ product/etc/CarrierSettings/vodafone_nl.pb
 product/etc/CarrierSettings/vodafone_tr.pb
 product/etc/CarrierSettings/windtre_it.pb
 product/etc/CarrierSettings/xfinity_us.pb
+product/overlay/EuiccSupportPixelOverlay/EuiccSupportPixelOverlay.apk;PRESIGNED
 product/priv-app/EuiccGoogle/EuiccGoogle.apk;PRESIGNED
