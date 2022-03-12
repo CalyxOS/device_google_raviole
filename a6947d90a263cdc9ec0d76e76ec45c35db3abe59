@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dd9ad670_9c8f2b0f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-03-12T10:06:27Z",
+      "side": 1,
+      "message": "extract-files.sh doesn\u0027t support overlay.\n\nDon\u0027t know if this is useful to us anyway, contents don\u0027t look like it.",
+      "revId": "a6947d90a263cdc9ec0d76e76ec45c35db3abe59",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
