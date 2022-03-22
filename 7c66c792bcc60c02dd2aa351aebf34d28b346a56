@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "01e17551_9d7726af",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-03-22T14:35:45Z",
+      "side": 1,
+      "message": "Woops, accidentally pushed squash\n\nerror: pathspec \u0027staging/android12L_merge-android-12.1.0_r2\u0027 did not match any file(s) known to git",
+      "revId": "7c66c792bcc60c02dd2aa351aebf34d28b346a56",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
