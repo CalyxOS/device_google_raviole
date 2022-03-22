@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6f1f692a_8419b03b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-03-22T17:39:03Z",
+      "side": 1,
+      "message": "Seems to fix the EUICC crashes somehow (even though the contents don\u0027t look related)\n\n",
+      "revId": "329170a29afe68bfbaa9df93c01ba3aa0c37b2a8",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
