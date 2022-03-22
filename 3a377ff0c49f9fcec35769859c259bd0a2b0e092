@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d5d80986_71f05b9b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-03-22T09:59:40Z",
+      "side": 1,
+      "message": "No relevant changes in other partitions",
+      "revId": "3a377ff0c49f9fcec35769859c259bd0a2b0e092",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
