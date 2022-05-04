@@ -25,8 +25,9 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- Keep this in sync with vendor/calyx -->
-    <string-array name="config_locationExtraPackageNames" translatable="false">
+    <!-- Packages exempt from status bar location indicator.
+         Keep this in sync with vendor/calyx -->
+    <string-array name="config_locationIndicatorExemptPkgNames" translatable="false">
         <!-- ImsService -->
         <item>com.shannon.imsservice</item>
         <!-- DejaVuLocationService -->
