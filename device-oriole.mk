@@ -18,6 +18,10 @@ include device/google/gs101/common.mk
 PRODUCT_COPY_FILES += \
     $(DEVICE_PATH)/permissions/permissions_com.google.android.euicc.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/permissions_com.google.android.euicc.xml
 
+# HBM
+PRODUCT_COPY_FILES += \
+    $(DEVICE_PATH)/permissions/permissions_com.android.hbmsvmanager.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/permissions_com.android.hbmsvmanager.xml
+
 # Overlays
 PRODUCT_PACKAGES += \
     DeviceAsWebcamRaviole \
