@@ -7,3 +7,7 @@
 $(call inherit-product, $(DEVICE_PATH)/device-calyx.mk)
 
 DEVICE_PACKAGE_OVERLAYS += $(DEVICE_PATH)/$(DEVICE_CODENAME)/overlay-calyx
+
+# HBM
+PRODUCT_PACKAGES += \
+    HbmSVManagerOverlay
