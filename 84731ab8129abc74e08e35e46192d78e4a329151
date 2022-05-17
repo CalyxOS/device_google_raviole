@@ -16,6 +16,24 @@
       "message": "oriole/overlay/frameworks/base/core/res/res/values/config.xml\n96:    \u003cdimen name\u003d\"status_bar_height_height\"\u003e74px\u003c/dimen\u003e",
       "revId": "84731ab8129abc74e08e35e46192d78e4a329151",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fb7dc82d_5e007847",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2022-05-17T23:09:00Z",
+      "side": 1,
+      "message": "status_bar_height_height :fixit:",
+      "parentUuid": "92de04bd_508a3a3d",
+      "revId": "84731ab8129abc74e08e35e46192d78e4a329151",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
