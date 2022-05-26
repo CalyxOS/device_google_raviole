@@ -16,6 +16,24 @@
       "message": "fyi , for me at least , i had to decompile the apk and edit the smail code to get it to not keep FCing",
       "revId": "c3541c2229fc0ac17c59fc0e7af595a162c1e188",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "75c68b32_2ec29e12",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-05-26T14:56:50Z",
+      "side": 1,
+      "message": "Haven\u0027t noticed that here. Did you have GMS or microG?",
+      "parentUuid": "025af1d1_ccec7747",
+      "revId": "c3541c2229fc0ac17c59fc0e7af595a162c1e188",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
