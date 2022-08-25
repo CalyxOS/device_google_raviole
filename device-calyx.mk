@@ -1,5 +1,8 @@
+<<<<<<< HEAD   (cf5583 raviole: Build PowerShare HAL)
 DEVICE_PACKAGE_OVERLAYS += device/google/raviole/overlay-calyx
 
+=======
+>>>>>>> CHANGE (fb19af Move PRODUCT_PACKAGE_OVERLAYS before vendor/calyx inclusion)
 # EUICC
 PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.telephony.euicc.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/android.hardware.telephony.euicc.xml \
