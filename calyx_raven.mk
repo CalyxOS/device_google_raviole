@@ -1,3 +1,5 @@
+PRODUCT_PACKAGE_OVERLAYS += device/google/raviole/overlay-calyx
+
 # Inherit some common stuff.
 $(call inherit-product, vendor/calyx/config/common.mk)
 
