@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "62b13aa1_7aed884b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2022-12-19T15:11:12Z",
+      "side": 1,
+      "message": "What benefits do these bring, do we know?",
+      "revId": "1cdb9b2a7f342cdbeb7981114d333ea266716b22",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
