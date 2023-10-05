@@ -45,7 +45,6 @@ system_ext/lib64/libpowerstatshaldataprovider.so
 system_ext/etc/permissions/com.google.euiccpixel.permissions.xml
 system_ext/etc/permissions/com.google.euiccpixel.xml
 system_ext/priv-app/EuiccGoogleOverlay/EuiccGoogleOverlay.apk
-system_ext/priv-app/EuiccSupportPixel/DKA_RC5_DVT.in
 system_ext/priv-app/EuiccSupportPixel/DKA_RC7_DVT.up
 system_ext/priv-app/EuiccSupportPixel/DKA_RC7_EVT.up
 system_ext/priv-app/EuiccSupportPixel/EuiccSupportPixel.apk;PRESIGNED
