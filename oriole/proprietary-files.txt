@@ -61,6 +61,8 @@ system_ext/priv-app/EuiccSupportPixel/DKA_RC7_DVT.up
 system_ext/priv-app/EuiccSupportPixel/DKA_RC7_EVT.up
 system_ext/priv-app/EuiccSupportPixel/EuiccSupportPixel.apk;PRESIGNED
 system_ext/priv-app/EuiccSupportPixel/esim-full-ofl-v1.img
+system_ext/priv-app/EuiccSupportPixel/esim-full-v0-security.img
+system_ext/priv-app/EuiccSupportPixel/esim-full-v0.img
 system_ext/priv-app/EuiccSupportPixel/esim-full-v1.img
 system_ext/priv-app/EuiccSupportPixelPermissions/EuiccSupportPixelPermissions.apk;PRESIGNED
 
