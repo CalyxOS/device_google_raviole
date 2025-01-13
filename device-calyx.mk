@@ -27,6 +27,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(DEVICE_PATH)/permissions/permissions_com.google.android.apps.camera.services.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/permissions_com.google.android.apps.camera.services.xml
 
+# IWLAN
+PRODUCT_PACKAGES += \
+    Iwlan
+
 # PowerShare
 include hardware/google/pixel/powershare/device.mk
 
