@@ -22,8 +22,8 @@ PRODUCT_MODEL := Pixel 6
 PRODUCT_NAME := calyx_$(DEVICE_CODENAME)
 
 PRODUCT_BUILD_PROP_OVERRIDES := \
-    BuildDesc="oriole-user 15 AP4A.250205.002 12821496 release-keys" \
-    BuildFingerprint=google/oriole/oriole:15/AP4A.250205.002/12821496:user/release-keys \
+    BuildDesc="oriole-user 15 BP1A.250305.019 13003188 release-keys" \
+    BuildFingerprint=google/oriole/oriole:15/BP1A.250305.019/13003188:user/release-keys \
     DeviceProduct=$(DEVICE_CODENAME)
 
 PRODUCT_RESTRICT_VENDOR_FILES := false
