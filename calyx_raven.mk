@@ -22,8 +22,8 @@ PRODUCT_MODEL := Pixel 6 Pro
 PRODUCT_NAME := calyx_$(DEVICE_CODENAME)
 
 PRODUCT_BUILD_PROP_OVERRIDES := \
-    BuildDesc="raven-user 15 BP1A.250305.019 13003188 release-keys" \
-    BuildFingerprint=google/raven/raven:15/BP1A.250305.019/13003188:user/release-keys \
+    BuildDesc="raven-user 15 BP1A.250405.007 13240079 release-keys" \
+    BuildFingerprint=google/raven/raven:15/BP1A.250405.007/13240079:user/release-keys \
     DeviceProduct=$(DEVICE_CODENAME)
 
 PRODUCT_RESTRICT_VENDOR_FILES := false
