@@ -1,0 +1,8 @@
+# Standard build output with vendor image build enabled
+etc/NOTICE.xml.gz
+etc/build.prop
+etc/fs_config_dirs
+etc/fs_config_files
+lib/modules/modules.alias
+lib/modules/modules.dep
+lib/modules/modules.softdep

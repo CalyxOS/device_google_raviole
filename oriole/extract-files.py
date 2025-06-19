@@ -96,11 +96,29 @@ def fix_vendor_file_list(file_list: FileList):
         file_list.get_file(file_path).set_arg(FileArgs.MODULE_SUFFIX, '_vendor')
 
 
+def fix_vendor_dlkm_file_list(file_list: FileList):
+    for file in file_list.all_files:
+        if file.dst == 'vendor_dlkm/lib/modules/modules.blocklist':
+            file.set_dst('vendor_dlkm/lib/modules/vendor_dlkm.modules.blocklist')
+        elif file.dst == 'vendor_dlkm/lib/modules/modules.load':
+            file.set_dst('vendor_dlkm/lib/modules/vendor_dlkm.modules.load')
+
+        file.set_arg(FileArgs.EXTRACT_ONLY, True)
+
+
 module.add_generated_proprietary_file(
     'proprietary-files-vendor.txt',
     partition='vendor',
     skip_file_list_name='skip-files-vendor.txt',
     fix_file_list=fix_vendor_file_list,
+)
+
+module.add_generated_proprietary_file(
+    'proprietary-files-vendor_dlkm.txt',
+    partition='vendor_dlkm',
+    skip_file_list_name='skip-files-vendor_dlkm.txt',
+    vendor_rel_sub_path='kernel',
+    fix_file_list=fix_vendor_dlkm_file_list,
 )
 
 if __name__ == '__main__':
