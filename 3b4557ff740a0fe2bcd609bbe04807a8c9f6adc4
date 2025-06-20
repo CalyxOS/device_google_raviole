@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "63d760d9_3a7efd60",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2025-06-20T20:52:20Z",
+      "side": 1,
+      "message": "Does not boot even in recovery.",
+      "revId": "3b4557ff740a0fe2bcd609bbe04807a8c9f6adc4",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
