@@ -34,11 +34,9 @@ PRODUCT_PACKAGES += \
     ONSOverlayVendorRaviole \
     PixelNfcOverlayRaviole \
     SafetyRegulatoryInfoOverlayProductRaviole \
-    SconeCbrsOverlay \
     SystemUIGoogleOverlayVendorRaviole
 
 PRODUCT_PACKAGES += \
-    DMServiceOverlayVendorRaven \
     FrameworkResOverlayProductRaven \
     FrameworkResOverlayVendorRaven \
     PixelNfcOverlayRaven \
